@@ -1,2 +1,1 @@
-# EventCompatibility
-低版本IE 事件兼容
+事件兼容-IE及标准浏览器-通用写法
